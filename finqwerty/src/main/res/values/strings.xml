@@ -26,6 +26,9 @@
     <string name="livmoto_dan_1">FinQwerty Livermorium Moto Mod, Danish</string>
     <string name="livmoto_nor_1">FinQwerty Livermorium Moto Mod, Norwegian</string>
     <string name="livmoto_ger_1">FinQwerty Livermorium Moto Mod, German</string>
+    
+    <string name="pocket_ger_1">FinQwerty Unihertz Titan Pocket, German QWERTY</string>
+    <string name="pocket_ger_2">FinQwerty Unihertz Titan Pocket, German QWERTZ</string>
 
     <string name="pro1_qwerty_bul_pho">FinQwerty F(x)tec Pro1, Bulgarian (phonetic) for physical US QWERTY</string>
     <string name="pro1_qwertz_che_fra">FinQwerty F(x)tec Pro1, Swiss French for physical DE QWERTZ</string>
