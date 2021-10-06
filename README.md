@@ -38,7 +38,9 @@ An in-app workaround is also included for BlackBerry phones that do not have tho
 ## Titan Pocket specific
 
 NOTE 1: This layout files are designed for use with virtual keyboard turned of since the additional characters are mapped to SYM+letter
+
 NOTE 2: For some capital letters or symbols SYM+Shift+letter must be pressed
+
 NOTE 3: There is currently no keylayout chart so you simply have to try all letters with SYM-key to find the positions of symbols
 
 
