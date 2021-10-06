@@ -1,0 +1,160 @@
+type OVERLAY
+
+map key 127 SYM
+
+key A {
+	label:				'A'
+	base:				'a'
+	shift, capslock:		'A'
+	alt:				'@'
+	sym:				'\u00E4'
+	shift+sym, capslock+sym:	'\u00C4'
+}
+
+key S {
+	label:				'S'
+	base:				's'
+	shift, capslock:		'S'
+	alt:				'4'
+	sym:				'\u00DF'
+}
+
+key O {
+	label:				'O'
+	base:				'o'
+	shift, capslock:		'O'
+	alt:				'/'
+	sym:				'\u00F6'
+	shift+sym, capslock+sym:	'\u00D6'
+}
+
+key U {
+	label:				'U'
+	base:				'u'
+	shift, capslock:		'U'
+	alt:				'-'
+	sym:				'\u00FC'
+	shift+sym, capslock+sym:	'\u00DC'
+}
+
+key E {
+	label:				'E'
+	base:				'e'
+	shift, capslock:		'E'
+	alt:				'2'
+	sym:				'\u20AC'
+}
+
+key N {
+	label:				'N'
+	base:				'n'
+	shift, capslock:		'N'
+	alt:				','
+	sym:				'\u003B'
+}
+
+key H {
+	label:				'H'
+	base:				'h'
+	shift, capslock:		'H'
+	alt:				'#'
+	sym:				'\u003D'
+}
+
+key J {
+	label:				'J'
+	base:				'j'
+	shift, capslock:		'J'
+	alt:				'+'
+	sym:				'&'
+}
+key T {
+	label:				'T'
+	base:				't'
+	shift, capslock:		'T'
+	alt:				'('
+	sym:				'\u005B'
+	shift+sym, capslock+sym:	'\u007B'
+}
+
+key Y {
+	label:				'Y'
+	base:				'y'
+	shift, capslock:		'Y'
+	alt:				')'
+	sym:				'\u005D'
+	shift+sym, capslock+sym:	'\u007D'
+}
+
+key P {
+	label:				'P'
+	base:				'p'
+	shift, capslock:		'P'
+	alt:				':'
+	sym:				'\u005C'
+}
+
+key I {
+	label:				'I'
+	base:				'i'
+	shift, capslock:		'I'
+	alt:				'_'
+	sym:				'\u0025'
+}
+
+key Z {
+	label:				'Z'
+	base:				'z'
+	shift, capslock:		'Z'
+	alt:				'!'
+	sym:				'\u003C'
+	shift+sym, capslock+sym:	'\u003E'
+}
+
+key V {
+	label:				'V'
+	base:				'v'
+	shift, capslock:		'V'
+	alt:				'9'
+	sym:				'\u201E'
+}
+
+key B {
+	label:				'B'
+	base:				'b'
+	shift, capslock:		'B'
+	alt:				'.'
+	sym:				'\u201C'
+}
+
+key C {
+	label:				'C'
+	base:				'c'
+	shift, capslock:		'C'
+	alt:				'8'
+	sym:				'\u00B0'
+}
+
+key Q {
+	label:				'Q'
+	base:				'q'
+	shift, capslock:		'Q'
+	alt:				'0'
+	sym:				'\u005E'
+}
+
+key L {
+	label:				'L'
+	base:				'l'
+	shift, capslock:		'L'
+	alt:				'\u0027'
+	sym:				'\u007E'
+}
+
+key W {
+	label:				'W'
+	base:				'w'
+	shift, capslock:		'W'
+	alt:				'1'
+	sym:				'\u007C'
+}
