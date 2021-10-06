@@ -4,6 +4,7 @@ This Fork was created to add support for the Unihertz Titan Pocket (German so fa
 
 Various keyboard layouts for the physical QWERTY keyboards of the following Android phones:
 
+- Unihertz Titan Pocket (German so far)
 - BlackBerry KEYone **Android 7.1 only** (Danish, Finnish, German, Norwegian, Swedish)
 - BlackBerry Priv (Danish, Finnish, German, Norwegian, Swedish)
 - F(x)tec Pro1 (Bulgarian, Czech, Danish, Finnish, German, Greek, Hungarian, Italian, Norwegian, Polish, Portuguese, Slovakian, Swedish, Swiss French, Ukrainian, U.S., U.S. international)
@@ -13,14 +14,33 @@ Various keyboard layouts for the physical QWERTY keyboards of the following Andr
 - Motorola Photon Q 4G (Finnish, Swedish)
 - Samsung Galaxy S Relay 4G (Finnish, Swedish)
 
-See the [FinQwerty website](https://android.onse.fi/finqwerty/) for detailed layout maps.
+See the [FinQwerty website](https://android.onse.fi/finqwerty/) for detailed layout maps. - does not apply for Unihertz Titan Pocket - see below -
 
 The layouts are provided via the Android standard layouts mechanism and are selectable in Android settings - no root required.
 An in-app workaround is also included for BlackBerry phones that do not have those settings.
 
 ## Installing
 
-FinQwerty is available from Google Play: [FinQwerty](https://play.google.com/store/apps/details?id=fi.onse.qwerty.finnish)
+1. Download the forked .apk with Unihertz Titan Pocket support from the release section
+2. On your Titan pocket, tap the .apk file to install it
+   NOTE: Unknown sources must be enabled to install the App from file.
+2. Accept eventual security warnings
+
+## Enabling
+
+1. Open app and tap on "physical keyboard settings"
+2. Tap on "aw9523-key" - that is the name of Titan Pocket's physical keyboard device
+3. Tap on "Add layouts" underneath the offered selection
+4. Scroll down the list until you find "FinQwerty Unihertz Titan Pocket"
+5. Enable the switch behind the desired layout
+6. Go back and choose the layout you just enabled in the step before as your active keyboard layout
+
+## Titan Pocket specific
+
+NOTE 1: This layout files are designed for use with virtual keyboard turned of since the additional characters are mapped to SYM+letter
+NOTE 2: For some capital letters or symbols SYM+Shift+letter must be pressed
+NOTE 3: There is currently no keylayout chart so you simply have to try all letters with SYM-key to find the positions of symbols
+
 
 ## Building
 
