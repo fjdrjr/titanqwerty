@@ -25,6 +25,9 @@
     <keyboard-layout android:name="livmoto_nor_1" android:label="@string/livmoto_nor_1" android:keyboardLayout="@raw/livmoto_nor_1"/>
     <keyboard-layout android:name="livmoto_dan_1" android:label="@string/livmoto_dan_1" android:keyboardLayout="@raw/livmoto_dan_1"/>
     <keyboard-layout android:name="livmoto_ger_1" android:label="@string/livmoto_ger_1" android:keyboardLayout="@raw/livmoto_ger_1"/>
+    
+    <keyboard-layout android:name="pocket_ger_1" android:label="@string/pocket_ger_1" android:keyboardLayout="@raw/pocket_ger_1"/>
+    <keyboard-layout android:name="pocket_ger_2" android:label="@string/pocket_ger_2" android:keyboardLayout="@raw/pocket_ger_2"/>
 
     <keyboard-layout android:name="pro1_qwerty_bul_pho" android:label="@string/pro1_qwerty_bul_pho" android:keyboardLayout="@raw/pro1_qwerty_bul_pho"/>
     <keyboard-layout android:name="pro1_qwertz_che_fra" android:label="@string/pro1_qwertz_che_fra" android:keyboardLayout="@raw/pro1_qwertz_che_fra"/>
