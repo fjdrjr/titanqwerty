@@ -21,7 +21,7 @@ An in-app workaround is also included for BlackBerry phones that do not have tho
 
 ## Installing
 
-1. Download the forked .apk with Unihertz Titan Pocket support from the release section
+1. Download the forked .apk with Unihertz Titan Pocket support from the [release](https://github.com/fjdrjr/finqwerty/releases) section
 2. On your Titan pocket, tap the .apk file to install it
    NOTE: Unknown sources must be enabled to install the App from file.
 2. Accept eventual security warnings
