@@ -18,7 +18,6 @@
     <string name="keyone_nor_1">FinQwerty BlackBerry KEYone, Norwegian</string>
     <string name="keyone_ger_1">FinQwerty BlackBerry KEYone, German</string>
 
-    <string name="gemini_bul_pho">FinQwerty Gemini PDA, Bulgarian Phonetic</string>
     <string name="gemini_fin_1">FinQwerty Gemini PDA, stock Finnish/Swedish with swapped Ä/Ö</string>
 
     <string name="livmoto_fin_1">FinQwerty Livermorium Moto Mod, Finnish</string>
@@ -26,11 +25,11 @@
     <string name="livmoto_dan_1">FinQwerty Livermorium Moto Mod, Danish</string>
     <string name="livmoto_nor_1">FinQwerty Livermorium Moto Mod, Norwegian</string>
     <string name="livmoto_ger_1">FinQwerty Livermorium Moto Mod, German</string>
-    
-    <string name="pocket_ger_1">TitanQwerty Unihertz Titan Pocket, German QWERTY</string>
-    <string name="pocket_ger_2">TitanQwerty Unihertz Titan Pocket, German QWERTZ</string>
 
-    <string name="pro1_qwerty_bul_pho">FinQwerty F(x)tec Pro1, Bulgarian (phonetic) for physical US QWERTY</string>
+    <string name="pocket_ger_1" translatable="false">TitanQwerty Unihertz Titan Pocket, German QWERTY</string>
+    <string name="pocket_ger_2" translatable="false">TitanQwerty Unihertz Titan Pocket, German QWERTZ</string>
+    <string name="pocket_us_1" translatable="false">TitanQwerty Unihertz Titan Pocket, US QWERTY</string>
+
     <string name="pro1_qwertz_che_fra">FinQwerty F(x)tec Pro1, Swiss French for physical DE QWERTZ</string>
     <string name="pro1_qwerty_cze_1">FinQwerty F(x)tec Pro1, Czech QWERTY for physical US QWERTY</string>
     <string name="pro1_qwerty_cze_2">FinQwerty F(x)tec Pro1, Czech QWERTZ for physical US QWERTY</string>
@@ -40,21 +39,17 @@
     <string name="pro1_qwerty_ita_1">FinQwerty F(x)tec Pro1, Italian for physical US QWERTY</string>
     <string name="pro1_qwerty_nor_1">FinQwerty F(x)tec Pro1, Norwegian for physical US QWERTY</string>
     <string name="pro1_qwerty_pol_prog">FinQwerty F(x)tec Pro1, Polish (programmer\'s) for physical US QWERTY</string>
-    <string name="pro1_qwerty_svk_1">FinQwerty F(x)tec Pro1, Slovakian for physical US QWERTY</string>
     <string name="pro1_qwerty_swe_1">FinQwerty F(x)tec Pro1, Swedish for physical US QWERTY</string>
-    <string name="pro1_qwerty_ukr_1">FinQwerty F(x)tec Pro1, Ukrainian for physical US QWERTY</string>
     <string name="pro1_qwerty_usa_1">FinQwerty F(x)tec Pro1, U.S. for physical US QWERTY</string>
     <string name="pro1_qwerty_usaintl_1">FinQwerty F(x)tec Pro1, U.S. intl. with dead keys for physical US QWERTY</string>
     <string name="pro1_qwerty_usaintl_fndead">FinQwerty F(x)tec Pro1, U.S. intl. with Fn dead keys for physical US QWERTY</string>
     <string name="pro1_qwertz_cze_1">FinQwerty F(x)tec Pro1, Czech QWERTY for physical DE QWERTZ</string>
     <string name="pro1_qwertz_cze_2">FinQwerty F(x)tec Pro1, Czech QWERTZ for physical DE QWERTZ</string>
     <string name="pro1_qwertz_dan_1">FinQwerty F(x)tec Pro1, Danish for physical DE QWERTZ</string>
-    <string name="pro1_qwertz_ell_1">FinQwerty F(x)tec Pro1, Greek for physical DE QWERTZ</string>
     <string name="pro1_qwertz_fin_1">FinQwerty F(x)tec Pro1, Finnish for physical DE QWERTZ</string>
     <string name="pro1_qwertz_ger_1">FinQwerty F(x)tec Pro1, German for physical DE QWERTZ</string>
     <string name="pro1_qwertz_hun_1">FinQwerty F(x)tec Pro1, Hungarian for physical DE QWERTZ</string>
     <string name="pro1_qwertz_nor_1">FinQwerty F(x)tec Pro1, Norwegian for physical DE QWERTZ</string>
-    <string name="pro1_qwertz_por_1">FinQwerty F(x)tec Pro1, Portuguese for physical DE QWERTZ</string>
     <string name="pro1_qwertz_swe_1">FinQwerty F(x)tec Pro1, Swedish for physical DE QWERTZ</string>
     <string name="pro1_qwertz_usa_1">FinQwerty F(x)tec Pro1, U.S. for physical DE QWERTZ</string>
     <string name="pro1_qwertz_usaintl_1">FinQwerty F(x)tec Pro1, U.S. intl. for physical DE QWERTZ</string>
@@ -62,7 +57,7 @@
 
     <string name="empty_layout">FinQwerty None (stock layout)</string>
 
-    <string name="title_activity_main" translatable="false">FinQwerty</string>
+    <string name="title_activity_main" translatable="false">TitanQwerty</string>
 
     <string name="configure_help_semi"><![CDATA[You can configure your physical keyboard layout in the \"Language & input\" section of Android Settings, by selecting the first item under the \"Physical keyboard\" heading there.]]></string>
     <string name="configure_button_text_semi">Language &amp; input settings</string>
@@ -80,19 +75,19 @@
     <string name="more_information">More information</string>
 
     <string name="hide_help_direct"><![CDATA[In most cases you can also change your physical keyboard layout via Android Settings in Language & input => Physical keyboard. If you use that method and want to hide FinQwerty from the application launcher, press the below button:]]></string>
-    <string name="hide_help_semi"><![CDATA[If you want to hide FinQwerty from the application launcher, press the below button:]]></string>
-    <string name="hide_button_text">Hide FinQwerty from launcher</string>
-    <string name="hide_help_below">This screen will close and FinQwerty is removed from the launcher (a reboot may be required for the removal to take effect). This screen can be reached again by removing and reinstalling FinQwerty.</string>
+    <string name="hide_help_semi"><![CDATA[If you want to hide TitanQwerty from the application launcher, press the below button:]]></string>
+    <string name="hide_button_text">Hide TitanQwerty from launcher</string>
+    <string name="hide_help_below">This screen will close and TitanQwerty is removed from the launcher (a reboot may be required for the removal to take effect). This screen can be reached again by removing and reinstalling TitanQwerty.</string>
 
     <string name="device_name_priv_qwerty">BlackBerry QWERTY keypad</string>
     <string name="device_name_priv_azerty">BlackBerry AZERTY keypad</string>
     <string name="device_name_priv_qwertz">BlackBerry QWERTZ keypad</string>
-    <string name="configure_help_below"><![CDATA[On the \"Choose keyboard layout\" dialog, press \"Setup keyboard layouts\" to open the full list of layouts. Select the FinQwerty layout appropriate for your device (FinQwerty layouts begin with \"FinQwerty\" in the alphabetical layout list) and then press the back button. Then select the FinQwerty layout you just added on the list.]]></string>
-    <string name="configure_help_below_imi"><![CDATA[The FinQwerty layouts begin with \"FinQwerty\" in the alphabetical layout list.]]></string>
+    <string name="configure_help_below"><![CDATA[On the \"Choose keyboard layout\" dialog, press \"Setup keyboard layouts\" to open the full list of layouts. Select the TitanQwerty/FinQwerty layout appropriate for your device (TitanQwerty layouts begin with \"TitanQwerty\", FinQwerty layouts begin with \"FinQwerty\" in the alphabetical layout list) and then press the back button. Then select the TitanQwerty/FinQwerty layout you just added on the list.]]></string>
+    <string name="configure_help_below_imi"><![CDATA[The TitanQwerty layouts begin with \"TitanQwerty\", the FinQwerty layouts begin with \"FinQwerty\" in the alphabetical layout list.]]></string>
 
-    <string name="action_website">Charts and more</string>
+    <string name="action_website">original FinQwerty charts</string>
     <string name="action_changelog">Changelog</string>
-    <string name="main_text"><![CDATA[FinQwerty provides several physical keyboard layouts for easier access to local characters. See below for instructions on how to configure your phone to use a FinQwerty keyboard layout. Detailed charts of the provided keymaps are provided on <a href="%s">the FinQwerty website</a>.]]></string>
+    <string name="main_text"><![CDATA[TitanQwerty is based on the FinQwerty app by anssih. All layouts of this original app are labeled as \"Finqwerty\". This is the original welcome message: FinQwerty provides several physical keyboard layouts for easier access to local characters. See below for instructions on how to configure your phone to use a FinQwerty keyboard layout. Detailed charts of the provided keymaps are provided on <a href="%s">the FinQwerty website</a>. However this application provides new layouts for the Unihertz Titan Pocket which were not included in the original FinQwerty app. ]]></string>
 
     <string name="priv_help2"><![CDATA[Note that if you have the BlackBerry Keyboard software keyboard enabled with a non-English software layout, the physical keyboard layout may be reset frequently. To avoid that, configure the software keyboard to use the English (US) layout via Settings => Language & input => BlackBerry Keyboard Settings => Input languages => English (United States) (and deselect all the other languages).]]></string>
 
