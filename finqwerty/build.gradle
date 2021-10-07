@@ -4,13 +4,13 @@ def generatedLayoutsResDir = new File("$buildDir/generated/layouts")
 def generatedLayoutsRawDir = new File("$generatedLayoutsResDir/raw")
 
 android {
-    compileSdkVersion 30
+    compileSdkVersion 31
 
     defaultConfig {
         minSdkVersion 16
-        targetSdkVersion 30
-        versionCode 36
-        versionName "1.5.4+development"
+        targetSdkVersion 31
+        versionCode 35
+        versionName "1.6"
     }
 
     sourceSets.main.res.srcDirs += generatedLayoutsResDir
