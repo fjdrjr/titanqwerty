@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="fi.onse.qwerty.finnish">
-
+    package="de.fjdrjr.titanqwerty">
+    <!-- package="de.fjdrjr.titanqwertyjr.titanqwerty" -->
     <!-- technically true, but we all keyboards we support are usable only
 	 touchscreen devices -->
     <!-- <uses-feature android:name="android.hardware.touchscreen" android:required="false"/> -->
@@ -18,7 +18,8 @@
         android:label="@string/app_name">
         <receiver
             android:name=".KeyboardLayoutsReceiver"
-            android:label="@string/title_activity_main">
+            android:label="@string/title_activity_main"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.hardware.input.action.QUERY_KEYBOARD_LAYOUTS" />
             </intent-filter>
@@ -29,7 +30,8 @@
         </receiver>
 
         <receiver android:name=".PrivBootupNotification"
-            android:enabled="false">
+            android:enabled="false"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
             </intent-filter>
@@ -37,7 +39,8 @@
 
         <activity
             android:name=".MainActivity"
-            android:label="@string/title_activity_main">
+            android:label="@string/title_activity_main"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
