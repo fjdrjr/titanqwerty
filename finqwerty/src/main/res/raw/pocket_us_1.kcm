@@ -70,7 +70,7 @@ key R {
 	label:				'R'
 	base:				'r'
 	shift, capslock:		'R'
-	alt:				'('
+	alt:				'3'
 	sym:				'\u007B'
 }
 
