@@ -28,6 +28,12 @@
     <keyboard-layout android:name="pocket_ger_1" android:label="@string/pocket_ger_1" android:keyboardLayout="@raw/pocket_ger_1"/>
     <keyboard-layout android:name="pocket_ger_2" android:label="@string/pocket_ger_2" android:keyboardLayout="@raw/pocket_ger_2"/>
     <keyboard-layout android:name="pocket_us_1" android:label="@string/pocket_us_1" android:keyboardLayout="@raw/pocket_us_1"/>
+    <keyboard-layout android:name="pocket_cyr_1" android:label="@string/pocket_cyr_1" android:keyboardLayout="@raw/pocket_cyr_1"/>
+
+    <keyboard-layout android:name="titan_ger_1" android:label="@string/titan_ger_1" android:keyboardLayout="@raw/titan_ger_1"/>
+    <keyboard-layout android:name="titan_ger_2" android:label="@string/titan_ger_2" android:keyboardLayout="@raw/titan_ger_2"/>
+    <keyboard-layout android:name="titan_us_1" android:label="@string/titan_us_1" android:keyboardLayout="@raw/titan_us_1"/>
+    <keyboard-layout android:name="titan_cyr_1" android:label="@string/titan_cyr_1" android:keyboardLayout="@raw/titan_cyr_1"/>
 
     <keyboard-layout android:name="pro1_qwertz_che_fra" android:label="@string/pro1_qwertz_che_fra" android:keyboardLayout="@raw/pro1_qwertz_che_fra"/>
     <keyboard-layout android:name="pro1_qwerty_cze_1" android:label="@string/pro1_qwerty_cze_1" android:keyboardLayout="@raw/pro1_qwerty_cze_1"/>
