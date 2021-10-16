@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="de.fjdrjr.titanqwerty">
-    <!-- package="de.fjdrjr.titanqwertyjr.titanqwerty" -->
+    <!-- package="de.fjdrjr.titanqwerty" -->
     <!-- technically true, but we all keyboards we support are usable only
 	 touchscreen devices -->
     <!-- <uses-feature android:name="android.hardware.touchscreen" android:required="false"/> -->
