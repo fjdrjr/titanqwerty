@@ -4,7 +4,8 @@ This Fork of [FinQwerty app by anssih](https://github.com/anssih/finqwerty) was 
 
 Various keyboard layouts for the physical QWERTY keyboards of the following Android phones:
 
-- Unihertz Titan Pocket (German so far)
+- Unihertz Titan Pocket (German, US, Cyrillic)
+- Unihertz Titan (original) (German, US, Cyrillic)
 - BlackBerry KEYone **Android 7.1 only** (Danish, Finnish, German, Norwegian, Swedish)
 - BlackBerry Priv (Danish, Finnish, German, Norwegian, Swedish)
 - F(x)tec Pro1 (Bulgarian, Czech, Danish, Finnish, German, Greek, Hungarian, Italian, Norwegian, Polish, Portuguese, Slovakian, Swedish, Swiss French, Ukrainian, U.S., U.S. international)
@@ -21,21 +22,23 @@ An in-app workaround is also included for BlackBerry phones that do not have tho
 
 ## Installing
 
-1. Download the forked .apk with Unihertz Titan Pocket support from the [release](https://github.com/fjdrjr/finqwerty/releases) section
+App can be foud in [Playstore](https://play.google.com/store/apps/details?id=de.fjdrjr.titanqwerty).
+
+If you can not use the Playstore for whatever reason:
+1. Download the forked .apk with Unihertz Titan / Titan Pocket support from the [release](https://github.com/fjdrjr/finqwerty/releases) section
 2. On your Titan pocket, tap the .apk file to install it
    NOTE: Unknown sources must be enabled to install the App from file.
-2. Accept eventual security warnings
 
 ## Enabling
 
 1. Open app and tap on "physical keyboard settings"
 2. Tap on "aw9523-key" - that is the name of Titan Pocket's physical keyboard device
 3. Tap on "Add layouts" underneath the offered selection
-4. Scroll down the list until you find "FinQwerty Unihertz Titan Pocket"
+4. Scroll down the list until you find "TitanQwerty Unihertz Titan Pocket"
 5. Enable the switch behind the desired layout
 6. Go back and choose the layout you just enabled in the step before as your active keyboard layout
 
-## Titan Pocket specific
+## Titan Pocket / Titan (original) specific
 
 NOTE 1: This layout files are designed for use with virtual keyboard turned of since the additional characters are mapped to SYM+letter
 
@@ -43,6 +46,7 @@ NOTE 2: For some capital letters or symbols SYM+Shift+letter must be pressed
 
 NOTE 3: There is currently no keylayout chart so you simply have to try all letters with SYM-key to find the positions of symbols
 
+Titan (original) only: The convenience key mus be mapped to SYM in the system settings.
 
 ## Building
 
