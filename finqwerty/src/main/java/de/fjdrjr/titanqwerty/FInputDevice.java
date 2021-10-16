@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: Apache-2.0
 
-//package fi.onse.qwerty.de.fjdrjr.titanqwerty;
+
 package de.fjdrjr.titanqwerty;
 
 import android.content.Context;
