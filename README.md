@@ -4,8 +4,8 @@ This Fork of [FinQwerty app by anssih](https://github.com/anssih/finqwerty) was 
 
 Various keyboard layouts for the physical QWERTY keyboards of the following Android phones:
 
-- Unihertz Titan Pocket (German, US, Cyrillic)
-- Unihertz Titan (original) (German, US, Cyrillic)
+- Unihertz Titan Pocket (German, US, Cyrillic, Vietnamese, Czech)
+- Unihertz Titan (original) (German, US, Cyrillic, Vietnamese, Czech)
 - BlackBerry KEYone **Android 7.1 only** (Danish, Finnish, German, Norwegian, Swedish)
 - BlackBerry Priv (Danish, Finnish, German, Norwegian, Swedish)
 - F(x)tec Pro1 (Bulgarian, Czech, Danish, Finnish, German, Greek, Hungarian, Italian, Norwegian, Polish, Portuguese, Slovakian, Swedish, Swiss French, Ukrainian, U.S., U.S. international)
