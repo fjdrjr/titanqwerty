@@ -1,0 +1,238 @@
+type OVERLAY
+
+map key 127 SYM
+
+key Q {
+	label:				'Q'
+	base:				'q'
+	shift, capslock:		'Q'
+	alt:				':'
+	sym:				'\u005E'
+	shift+sym, capslock+sym:	'\u00B0'
+}
+
+key W {
+	label:				'W'
+	base:				'w'
+	shift, capslock:		'W'
+	alt:				'/'
+	sym:				'\u011B'
+	shift+sym, capslock+sym:	'\u011A'
+}
+
+key E {
+	label:				'E'
+	base:				'e'
+	shift, capslock:		'E'
+	alt:				'_'
+	sym:				'\u00E9'
+	shift+sym, capslock+sym:	'\u00C9'
+}
+
+key R {
+	label:				'R'
+	base:				'r'
+	shift, capslock:		'R'
+	alt:				'-'
+	sym:				'\u0159'
+	shift+sym, capslock+sym:	'\u0158'
+}
+
+key T {
+	label:				'T'
+	base:				't'
+	shift, capslock:		'T'
+	alt:				'('
+	sym:				'\u20AC'
+	shift+sym, capslock+sym:	'$'
+}
+
+key Y {
+	label:				'Y'
+	base:				'y'
+	shift, capslock:		'Y'
+	alt:				')'
+	sym:				'\u00FD'
+	shift+sym, capslock+sym:	'\u00DD'
+}
+
+key U {
+	label:				'U'
+	base:				'u'
+	shift, capslock:		'U'
+	alt:				'1'
+	sym:				'\u00FA'
+	shift+sym, capslock+sym:	'\u00DA'
+}
+
+key I {
+	label:				'I'
+	base:				'i'
+	shift, capslock:		'I'
+	alt:				'2'
+	sym:				'\u00ED'
+	shift+sym, capslock+sym:	'\u00CD'
+}
+
+key O {
+	label:				'O'
+	base:				'o'
+	shift, capslock:		'O'
+	alt:				'3'
+	sym:				'\u005C'
+	shift+sym, capslock+sym:	'\u00F7'
+}
+
+key P {
+	label:				'P'
+	base:				'p'
+	shift, capslock:		'P'
+	alt:				'0'
+	sym:				'\u0025'
+	shift+sym, capslock+sym:	'\u00D7'
+}
+
+key A {
+	label:				'A'
+	base:				'a'
+	shift, capslock:		'A'
+	alt:				'@'
+	sym:				'\u00E1'
+	shift+sym, capslock+sym:	'\u00C1'
+}
+
+key S {
+	label:				'S'
+	base:				's'
+	shift, capslock:		'S'
+	alt:				'\u0027'
+	sym:				'\u0161'
+	shift+sym, capslock+sym:	'\u0160'
+}
+
+key D {
+	label:				'D'
+	base:				'd'
+	shift, capslock:		'D'
+	alt:				'\u0022'
+	sym:				'\u0111'
+	shift+sym, capslock+sym:	'\u0110'
+}
+
+key F {
+	label:				'F'
+	base:				'f'
+	shift, capslock:		'F'
+	alt:				'+'
+	sym:				'\u00D7'
+	shift+sym, capslock+sym:	'\u22C5'
+}
+
+key G {
+	label:				'G'
+	base:				'g'
+	shift, capslock:		'G'
+	alt:				'*'
+	sym:				'\u005B'
+	shift+sym, capslock+sym:	'\u007B'
+}
+
+key H {
+	label:				'H'
+	base:				'h'
+	shift, capslock:		'H'
+	alt:				'#'
+	sym:				'\u005D'
+	shift+sym, capslock+sym:	'\u007D'
+}
+
+key J {
+	label:				'J'
+	base:				'j'
+	shift, capslock:		'J'
+	alt:				'4'
+	sym:				'\u016F'
+	shift+sym, capslock+sym:	'\u016E'
+}
+
+key K {
+	label:				'K'
+	base:				'k'
+	shift, capslock:		'K'
+	alt:				'5'
+	sym:				'='
+	shift+sym, capslock+sym:	'&'
+}
+
+key L {
+	label:				'L'
+	base:				'l'
+	shift, capslock:		'L'
+	alt:				'6'
+	sym:				'\u0142'
+	shift+sym, capslock+sym:	'\u0141'
+}
+
+key Z {
+	label:				'Z'
+	base:				'z'
+	shift, capslock:		'Z'
+	alt:				'!'
+	sym:				'\u017E'
+	shift+sym, capslock+sym:	'\u017D'
+}
+
+key X {
+	label:				'X'
+	base:				'x'
+	shift, capslock:		'X'
+	alt:				'?'
+	sym:				'\u00DF'
+	shift+sym, capslock+sym:	'\u00A7'
+}
+
+key C {
+	label:				'C'
+	base:				'c'
+	shift, capslock:		'C'
+	alt:				','
+	sym:				'\u010D'
+	shift+sym, capslock+sym:	'\u010C'
+}
+
+key V {
+	label:				'V'
+	base:				'v'
+	shift, capslock:		'V'
+	alt:				'.'
+	sym:				'\u003C'
+	shift+sym, capslock+sym:	'\u003E'
+}
+
+key B {
+	label:				'B'
+	base:				'b'
+	shift, capslock:		'B'
+	alt:				'7'
+	sym:				'\u00A4'
+	shift+sym, capslock+sym:	'\u0308'
+}
+
+key N {
+	label:				'N'
+	base:				'n'
+	shift, capslock:		'N'
+	alt:				'8'
+	sym:				'\u003B'
+	shift+sym, capslock+sym:	'\u007C'
+}
+
+key M {
+	label:				'M'
+	base:				'm'
+	shift, capslock:		'M'
+	alt:				'9'
+	sym:				'\u00B5'
+	shift+sym, capslock+sym:	'\u007E'
+}
+
