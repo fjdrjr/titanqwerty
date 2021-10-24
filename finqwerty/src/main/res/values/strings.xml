@@ -30,11 +30,18 @@
     <string name="pocket_ger_2" translatable="false">TitanQwerty Unihertz Titan Pocket, German QWERTZ</string>
     <string name="pocket_us_1" translatable="false">TitanQwerty Unihertz Titan Pocket, US QWERTY</string>
     <string name="pocket_cyr_1" translatable="false">TitanQwerty Unihertz Titan Pocket, Cyrillic Phonetic</string>
+    <string name="pocket_vie_1" translatable="false">TitanQwerty Unihertz Titan Pocket, Vietnamese</string>
+    <string name="pocket_cz_1" translatable="false">TitanQwerty Unihertz Titan Pocket, Czech QWERTY</string>
+    <string name="pocket_cz_2" translatable="false">TitanQwerty Unihertz Titan Pocket, Czech QWERTZ</string>
 
     <string name="titan_ger_1" translatable="false">TitanQwerty Unihertz Titan (original), German QWERTY</string>
     <string name="titan_ger_2" translatable="false">TitanQwerty Unihertz Titan (original), German QWERTZ</string>
     <string name="titan_us_1" translatable="false">TitanQwerty Unihertz Titan (original), US QWERTY</string>
     <string name="titan_cyr_1" translatable="false">TitanQwerty Unihertz Titan (original), Cyrillic Phonetic</string>
+    <string name="titan_vie_1" translatable="false">TitanQwerty Unihertz Titan (original), Vietnamese</string>
+    <string name="titan_cz_1" translatable="false">TitanQwerty Unihertz Titan (original), Czech QWERTY</string>
+    <string name="titan_cz_2" translatable="false">TitanQwerty Unihertz Titan (original), Czech QWERTZ</string>
+
 
     <string name="pro1_qwertz_che_fra">FinQwerty F(x)tec Pro1, Swiss French for physical DE QWERTZ</string>
     <string name="pro1_qwerty_cze_1">FinQwerty F(x)tec Pro1, Czech QWERTY for physical US QWERTY</string>
