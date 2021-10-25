@@ -1,0 +1,5 @@
+NEW in 1.6.3:
+
+- added Vietnamese layout for Unihertz Titan Pocket / Titan (original)
+- added Czech QWERTZ, QWERTY layouts for Unihertz Titan Pocket / Titan (original)
+- fixed a bug in US international layout for Titan Pocket
