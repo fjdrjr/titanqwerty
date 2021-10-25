@@ -46,7 +46,7 @@ NOTE 2: For some capital letters or symbols SYM+Shift+letter must be pressed
 
 NOTE 3: There is currently no keylayout chart so you simply have to try all letters with SYM-key to find the positions of symbols
 
-Titan (original) only: The convenience key mus be mapped to SYM in the system settings.
+Titan (original) only: The convenience key must be mapped to SYM in the system settings.
 
 ## Building
 
