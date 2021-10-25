@@ -1,0 +1,26 @@
+TitanQwerty is based on FinQwerty and provides custom keyboard layouts
+for Unihertz Titan Pocket / Titan (original).
+The original FinQwerty app was developed by anssih. This app uses most of his code, but adds additional support for the Unihertz Titan Pocket and supports some newer versions of Android SDK.
+
+What to expect:
+- Unihertz Titan Pocket German QWERTZ, QWERTY layouts
+- Unihertz Titan Pocket US layout with additional symbols
+- Unihertz Titan Pocket Cyrillic phonetic layout
+- Unihertz Titan Pocket Vietnamese layout
+- Unihertz Titan Pocket Czech QWERTZ, QWERTY layouts
+- Unihertz Titan (original) German QWERTZ, QWERTY layouts
+- Unihertz Titan (original) US layout with additional symbols
+- Unihertz Titan (original) Cyrillic phonetic layout
+- Unihertz Titan (original) Vietnamese layout
+- Unihertz Titan (original) Czech QWERTZ, QWERTY layouts
+
+Use instructions: 
+1. Open app
+2. Tap on "physical keyboard settings"
+3. Tap on top entry (your physical keyboard)
+4. Tap on "set up keyboard layouts"
+5. Scroll down and select desired Layout (TitanQwerty layouts start with TitanQwerty, FinQwerty layouts start with FinQwerty)
+6. Go back and select the layout you just added as active layout
+
+On Unihertz Titan Pocket additional letters and symbols can be reached by SYM + letter or SYM + shift + letter. On Unihertz Titan (original) the convenience key must be mapped to SYM in settings. Then additional letters and symbols can be reached by SYM + letter or SYM + shift + letter.
+Therefore virtual Kika-Keyboard must be disabled as it uses the SYM-key.
