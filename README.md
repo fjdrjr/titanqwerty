@@ -1,6 +1,6 @@
 # TitanQwerty
 
-This Fork of [FinQwerty app by anssih](https://github.com/anssih/finqwerty) was created to add support for the Unihertz Titan Pocket (German so far)
+This Fork of [FinQwerty app by anssih](https://github.com/anssih/finqwerty) was created to add support for the Unihertz Titan Pocket
 
 Various keyboard layouts for the physical QWERTY keyboards of the following Android phones:
 
