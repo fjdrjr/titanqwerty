@@ -5,6 +5,7 @@ map key 127 SYM
 key Q {
 	label:				'Q'
 	base:				'\u044F'
+	number:			'0'
 	shift, capslock:		'\u042F'
 	alt:				'0'
 	sym:				'\u044B'
@@ -14,6 +15,7 @@ key Q {
 key W {
 	label:				'W'
 	base:				'\u0432'
+	number:			'1'
 	shift, capslock:		'\u0412'
 	alt:				'1'
 	sym:				'\u0448'
@@ -23,6 +25,7 @@ key W {
 key E {
 	label:				'E'
 	base:				'\u0435'
+	number:			'2'
 	shift, capslock:		'\u0415'
 	alt:				'2'
 	sym:				'\u0451'
@@ -32,6 +35,7 @@ key E {
 key R {
 	label:				'R'
 	base:				'\u0440'
+	number:			'3'
 	shift, capslock:		'\u0420'
 	alt:				'3'
 	sym:				'\u005E'
@@ -40,6 +44,7 @@ key R {
 key T {
 	label:				'T'
 	base:				'\u0442'
+	number:			'('
 	shift, capslock:		'\u0422'
 	alt:				'\u0028'
 	sym:				'\u005B'
@@ -49,6 +54,7 @@ key T {
 key Y {
 	label:				'Y'
 	base:				'\u044A'
+	number:			')'
 	shift, capslock:		'\u042A'
 	alt:				'\u0029'
 	sym:				'\u005D'
@@ -58,6 +64,7 @@ key Y {
 key U {
 	label:				'U'
 	base:				'\u0443'
+	number:			'-'
 	shift, capslock:		'\u0423'
 	alt:				'-'
 	sym:				'\u044E'
@@ -75,6 +82,7 @@ key I {
 key O {
 	label:				'O'
 	base:				'\u043E'
+	number:			'/'
 	shift, capslock:		'\u041E'
 	alt:				'\u002F'
 	sym:				'\u00B0'
@@ -99,6 +107,7 @@ key A {
 key S {
 	label:				'S'
 	base:				'\u0441'
+	number:			'4'
 	shift, capslock:		'\u0421'
 	alt:				'4'
 	sym:				'\u0449'
@@ -108,6 +117,7 @@ key S {
 key D {
 	label:				'D'
 	base:				'\u0434'
+	number:			'5'
 	shift, capslock:		'\u0414'
 	alt:				'5'
 	sym:				'\u00AB'
@@ -116,6 +126,7 @@ key D {
 key F {
 	label:				'F'
 	base:				'\u0444'
+	number:			'6'
 	shift, capslock:		'\u0424'
 	alt:				'6'
 	sym:				'\u00BB'
@@ -125,6 +136,7 @@ key F {
 key G {
 	label:				'G'
 	base:				'\u0433'
+	number:			'*'
 	shift, capslock:		'\u0413'
 	alt:				'*'
 	sym:				'\u003D'
@@ -133,6 +145,7 @@ key G {
 key H {
 	label:				'H'
 	base:				'\u0445'
+	number:			'#'
 	shift, capslock:		'\u0425'
 	alt:				'#'
 	sym:				'\u0447'
@@ -142,6 +155,7 @@ key H {
 key J {
 	label:				'J'
 	base:				'\u0439'
+	number:			'+'
 	shift, capslock:		'\u0419'
 	alt:				'+'
 	sym:				'\u00B1'
@@ -174,6 +188,7 @@ key Z {
 key X {
 	label:				'X'
 	base:				'\u044C'
+	number:			'7'
 	shift, capslock:		'\u042C'
 	alt:				'7'
 	sym:				'\u20AC'
@@ -182,6 +197,7 @@ key X {
 key C {
 	label:				'C'
 	base:				'\u0446'
+	number:			'8'
 	shift, capslock:		'\u0426'
 	alt:				'8'
 	sym:				'\u007E'
@@ -190,6 +206,7 @@ key C {
 key V {
 	label:				'V'
 	base:				'\u0436'
+	number:			'9'
 	shift, capslock:		'\u0416'
 	alt:				'9'
 	sym:				'\u044D'
@@ -199,6 +216,7 @@ key V {
 key B {
 	label:				'B'
 	base:				'\u0431'
+	number:			'.'
 	shift, capslock:		'\u0411'
 	alt:				'.'
 	sym:				'\u0026'
@@ -207,6 +225,7 @@ key B {
 key N {
 	label:				'N'
 	base:				'\u043D'
+	number:			','
 	shift, capslock:		'\u041D'
 	alt:				','
 	sym:				'\u003B'
